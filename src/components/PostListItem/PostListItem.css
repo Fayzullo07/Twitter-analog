@@ -1,0 +1,30 @@
+button:nth-child(2) i{
+    color: crimson;
+}
+
+.important button:nth-child(1) i{
+    color: orange;
+}
+
+span {
+    color: orange;
+}
+
+.important span {
+    color: black;
+}
+.fa-heart {
+    color: white;
+    margin-left: 10px;
+
+}
+
+.like .fa-heart {
+    color: red;
+    margin-left: 10px;
+}
+
+button {
+    margin: 0 3px;
+    background: lightgrey;
+}
